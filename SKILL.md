@@ -3,8 +3,8 @@ name: propaganda-model-analysis
 description: A skill for applying Chomsky and Herman's five filters to analyze media coverage - understanding how consent is manufactured in democratic societies.
 license: MIT
 metadata:
+  version: 1.0.4752
   author: sethmblack
-  version: 1.0.4751
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - propaganda-model-analysis
